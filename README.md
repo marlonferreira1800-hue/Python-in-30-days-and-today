@@ -2,7 +2,11 @@
 
 Trilha interativa em português com 30 etapas, exemplos curtos e desafios diários.
 
-## Como abrir
+## Acesse o curso
+
+[▶ Abrir o curso online](https://marlonferreira1800-hue.github.io/Python-in-30-days-and-today/)
+
+## Como abrir localmente
 
 Abra o arquivo index.html no navegador. Não há dependências nem servidor obrigatório.
 
